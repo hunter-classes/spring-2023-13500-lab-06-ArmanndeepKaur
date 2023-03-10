@@ -9,8 +9,8 @@ int main()
 {
 
   //TASK B 
-  std::cout<<encryptCaesar("Hello, World", 10)<<"\n";
-  std::cout<<encryptCaesar("Hi, Everyone", 15)<<"\n";
+  std::cout<<encryptCaesar("Hello, World!", 10)<<"\n";
+  std::cout<<encryptCaesar("Hi, Everyone!", 15)<<"\n";
 
   //Task C
   std::cout<<encryptVigenere("Hello, World!", "cake")<<"\n";
